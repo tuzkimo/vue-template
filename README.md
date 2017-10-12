@@ -1,4 +1,4 @@
-# learn-vue
+# vue-template
 
 > A Vue.js project
 
